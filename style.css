@@ -1,0 +1,11 @@
+span#clock-text > * {
+    font-size: 3em;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#clock-ctn{
+    text-align: center;
+}
+body{
+    background-color: black;
+}
